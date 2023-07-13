@@ -1,2 +1,2 @@
 # Skin-Cancer-Malignant-vs.-Benign
-Skin Cancer Detetction using EffecientNetB5 and CNN
+Skin Cancer Detection using EfficientNetB5 and CNN
